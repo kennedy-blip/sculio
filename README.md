@@ -25,4 +25,4 @@ start index.html   # Windows (or open with your browser)
 ```
 
 ## License
-The QRCode.js l i brar y is released under the MIT License. The surrounding HTML/CSS/JS you see here is also provided under the MIT License.
+The QRCode.js l i brar y is released un der the MIT License. The surrounding HTML/CSS/JS you see here is also provided under the MIT License.
